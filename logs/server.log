@@ -1,15 +1,19 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [205] using StatReload
-INFO:     Started server process [207]
+INFO:     Started reloader process [261] using StatReload
+INFO:     Started server process [263]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:44032 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:44002 - "GET /universities HTTP/1.1" 200 OK
-INFO:     172.20.0.1:44018 - "POST /properties/search HTTP/1.1" 200 OK
-INFO:     172.20.0.1:44002 - "GET /universities HTTP/1.1" 200 OK
-INFO:     172.20.0.1:44020 - "POST /properties/search HTTP/1.1" 200 OK
-INFO:     172.20.0.1:34704 - "GET /universities HTTP/1.1" 200 OK
-INFO:     172.20.0.1:34718 - "POST /properties/search HTTP/1.1" 200 OK
-INFO:     172.20.0.1:34710 - "POST /properties/search HTTP/1.1" 200 OK
-INFO:     172.20.0.1:34704 - "GET /universities HTTP/1.1" 200 OK
+INFO:     172.20.0.1:52040 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:43030 - "OPTIONS /universities HTTP/1.1" 200 OK
+INFO:     172.20.0.1:43042 - "OPTIONS /universities HTTP/1.1" 200 OK
+INFO:     172.20.0.1:43046 - "OPTIONS /properties/search HTTP/1.1" 200 OK
+INFO:     172.20.0.1:43058 - "OPTIONS /properties/search HTTP/1.1" 200 OK
+INFO:     172.20.0.1:43042 - "POST /properties/search HTTP/1.1" 200 OK
+INFO:     172.20.0.1:43030 - "GET /universities HTTP/1.1" 200 OK
+INFO:     172.20.0.1:43030 - "GET /universities HTTP/1.1" 200 OK
+INFO:     172.20.0.1:43046 - "POST /properties/search HTTP/1.1" 200 OK
+INFO:     172.20.0.1:45384 - "GET /universities HTTP/1.1" 200 OK
+INFO:     172.20.0.1:45396 - "POST /properties/search HTTP/1.1" 200 OK
+INFO:     172.20.0.1:45410 - "POST /properties/search HTTP/1.1" 200 OK
+INFO:     172.20.0.1:45384 - "GET /universities HTTP/1.1" 200 OK
