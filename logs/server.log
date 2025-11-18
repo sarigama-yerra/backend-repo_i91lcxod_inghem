@@ -1,31 +1,36 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [360] using StatReload
-INFO:     Started server process [362]
+INFO:     Started reloader process [410] using StatReload
+INFO:     Started server process [412]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:50390 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:50402 - "OPTIONS /universities HTTP/1.1" 200 OK
-INFO:     172.20.0.1:50406 - "OPTIONS /universities HTTP/1.1" 200 OK
-INFO:     172.20.0.1:50402 - "GET /universities HTTP/1.1" 200 OK
-INFO:     172.20.0.1:50402 - "GET /universities HTTP/1.1" 200 OK
-INFO:     172.20.0.1:50402 - "OPTIONS /properties/search HTTP/1.1" 200 OK
-INFO:     172.20.0.1:50424 - "OPTIONS /properties/search HTTP/1.1" 200 OK
-INFO:     172.20.0.1:50402 - "POST /properties/search HTTP/1.1" 200 OK
-INFO:     172.20.0.1:50424 - "POST /properties/search HTTP/1.1" 200 OK
-INFO:     172.20.0.1:35226 - "GET /universities HTTP/1.1" 200 OK
-INFO:     172.20.0.1:35226 - "GET /universities HTTP/1.1" 200 OK
-INFO:     172.20.0.1:35226 - "POST /properties/search HTTP/1.1" 200 OK
-INFO:     172.20.0.1:35232 - "POST /properties/search HTTP/1.1" 200 OK
-INFO:     172.20.0.1:37878 - "GET /universities HTTP/1.1" 200 OK
-INFO:     172.20.0.1:37878 - "GET /universities HTTP/1.1" 200 OK
-INFO:     172.20.0.1:37880 - "POST /properties/search HTTP/1.1" 200 OK
-INFO:     172.20.0.1:37878 - "POST /properties/search HTTP/1.1" 200 OK
-INFO:     172.20.0.1:37878 - "GET /universities HTTP/1.1" 200 OK
-INFO:     172.20.0.1:37880 - "POST /properties/search HTTP/1.1" 200 OK
-INFO:     172.20.0.1:37878 - "GET /universities HTTP/1.1" 200 OK
-INFO:     172.20.0.1:37878 - "POST /properties/search HTTP/1.1" 200 OK
-INFO:     172.20.0.1:37884 - "GET /universities HTTP/1.1" 200 OK
-INFO:     172.20.0.1:37884 - "GET /universities HTTP/1.1" 200 OK
-INFO:     172.20.0.1:37884 - "POST /properties/search HTTP/1.1" 200 OK
-INFO:     172.20.0.1:37888 - "POST /properties/search HTTP/1.1" 200 OK
+INFO:     172.20.0.1:40072 - "OPTIONS /universities HTTP/1.1" 200 OK
+INFO:     172.20.0.1:40086 - "OPTIONS /universities HTTP/1.1" 200 OK
+INFO:     172.20.0.1:40104 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:40062 - "GET /universities HTTP/1.1" 200 OK
+INFO:     172.20.0.1:40072 - "GET /universities HTTP/1.1" 200 OK
+INFO:     172.20.0.1:40062 - "GET /universities HTTP/1.1" 200 OK
+INFO:     172.20.0.1:40072 - "GET /universities HTTP/1.1" 200 OK
+INFO:     172.20.0.1:40072 - "OPTIONS /properties/search HTTP/1.1" 200 OK
+INFO:     172.20.0.1:40062 - "POST /properties/search HTTP/1.1" 200 OK
+INFO:     172.20.0.1:40086 - "POST /properties/search HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57672 - "GET /universities HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57672 - "GET /universities HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57672 - "POST /properties/search HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57686 - "POST /properties/search HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57686 - "GET /universities HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57686 - "GET /universities HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57686 - "POST /properties/search HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48662 - "GET /universities HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48662 - "GET /universities HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48662 - "POST /properties/search HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48662 - "GET /universities HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48662 - "GET /universities HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48662 - "POST /properties/search HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51450 - "GET /universities HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51450 - "GET /universities HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51450 - "POST /properties/search HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51464 - "POST /properties/search HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51480 - "GET /universities HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51480 - "GET /universities HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51480 - "POST /properties/search HTTP/1.1" 200 OK
